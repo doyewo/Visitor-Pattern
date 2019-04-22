@@ -1,3 +1,3 @@
 interface ItemsElement {
-    public int accept (ShoppingCartVisor visor);
+    public int accept (ShoppingCartVisitor visitor);
 }
