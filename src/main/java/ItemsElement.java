@@ -1,3 +1,4 @@
-interface ItemsElement {
-    public int accept (ShoppingCartVisitor visitor);
-}
+interface ItemsElement
+{
+    public int accept(ShoppingCartVisitor visitor);
+} 
